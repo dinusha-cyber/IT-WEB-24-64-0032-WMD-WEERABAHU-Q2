@@ -1,0 +1,1032 @@
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\appsettings.Development.json
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\appsettings.json
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Q2.staticwebassets.runtime.json
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Q2.exe
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Q2.deps.json
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Q2.runtimeconfig.json
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Q2.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Q2.pdb
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.AssemblyInfoInputs.cache
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.AssemblyInfo.cs
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.csproj.CoreCompileInputs.cache
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.RazorAssemblyInfo.cache
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.RazorAssemblyInfo.cs
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\staticwebassets.build.json
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\staticwebassets.development.json
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\staticwebassets\msbuild.build.Q2.props
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Q2.props
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\staticwebassets.pack.json
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\scopedcss\bundle\Q2.styles.css
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\scopedcss\projectbundle\Q2.bundle.scp.css
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.dll
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\refint\Q2.dll
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.pdb
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\ref\Q2.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Azure.Core.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Azure.Identity.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Humanizer.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Build.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\Newtonsoft.Json.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.Common.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.Configuration.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.Frameworks.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.LibraryModel.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.Packaging.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.ProjectModel.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.Protocol.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\NuGet.Versioning.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.CodeDom.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Drawing.Common.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Memory.Data.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Runtime.Caching.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Security.Permissions.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\System.Windows.Extensions.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\af\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ar\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\az\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\bg\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\cs\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\da\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\de\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\el\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\es\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fa\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\he\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\hr\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\hu\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\hy\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\id\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\is\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\it\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ja\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ku\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\lv\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\mt\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\nb\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\nl\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pl\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pt\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ro\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ru\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\sk\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\sl\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\sr\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\sv\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\tr\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\uk\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\vi\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+I:\WEB Proj\Q2\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.csproj.AssemblyReference.cache
+I:\WEB Proj\Q2\Q2\obj\Debug\net8.0\Q2.csproj.Up2Date
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\appsettings.Development.json
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\appsettings.json
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Q2.staticwebassets.runtime.json
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Q2.exe
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Q2.deps.json
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Q2.runtimeconfig.json
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Q2.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Q2.pdb
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Azure.Core.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Azure.Identity.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Humanizer.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Build.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Mono.TextTemplating.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\Newtonsoft.Json.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.Common.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.Configuration.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.Frameworks.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.LibraryModel.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.Packaging.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.ProjectModel.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.Protocol.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\NuGet.Versioning.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.CodeDom.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Composition.Convention.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Composition.Hosting.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Composition.Runtime.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Drawing.Common.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Memory.Data.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Runtime.Caching.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Security.Permissions.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\System.Windows.Extensions.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\af\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ar\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\az\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\bg\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\cs\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\da\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\de\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\el\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\es\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fa\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\he\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\hr\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\hu\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\hy\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\id\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\is\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\it\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ja\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ku\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\lv\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\mt\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\nb\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\nl\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pl\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pt\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ro\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ru\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\sk\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\sl\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\sr\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\sv\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\tr\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\uk\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\vi\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+I:\WEB Proj\db\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.csproj.AssemblyReference.cache
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.AssemblyInfoInputs.cache
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.AssemblyInfo.cs
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.csproj.CoreCompileInputs.cache
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.RazorAssemblyInfo.cache
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.RazorAssemblyInfo.cs
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\staticwebassets.build.json
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\staticwebassets.development.json
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\staticwebassets\msbuild.build.Q2.props
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Q2.props
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\staticwebassets.pack.json
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\scopedcss\bundle\Q2.styles.css
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\scopedcss\projectbundle\Q2.bundle.scp.css
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.csproj.Up2Date
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.dll
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\refint\Q2.dll
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.pdb
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
+I:\WEB Proj\db\Q2\obj\Debug\net8.0\ref\Q2.dll
+E:\Q2\bin\Debug\net8.0\appsettings.Development.json
+E:\Q2\bin\Debug\net8.0\appsettings.json
+E:\Q2\bin\Debug\net8.0\Q2.staticwebassets.runtime.json
+E:\Q2\bin\Debug\net8.0\Q2.exe
+E:\Q2\bin\Debug\net8.0\Q2.deps.json
+E:\Q2\bin\Debug\net8.0\Q2.runtimeconfig.json
+E:\Q2\bin\Debug\net8.0\Q2.dll
+E:\Q2\bin\Debug\net8.0\Q2.pdb
+E:\Q2\bin\Debug\net8.0\Azure.Core.dll
+E:\Q2\bin\Debug\net8.0\Azure.Identity.dll
+E:\Q2\bin\Debug\net8.0\Humanizer.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Build.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Q2\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Q2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Q2\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Q2\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\Q2\bin\Debug\net8.0\NuGet.Common.dll
+E:\Q2\bin\Debug\net8.0\NuGet.Configuration.dll
+E:\Q2\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+E:\Q2\bin\Debug\net8.0\NuGet.Frameworks.dll
+E:\Q2\bin\Debug\net8.0\NuGet.LibraryModel.dll
+E:\Q2\bin\Debug\net8.0\NuGet.Packaging.dll
+E:\Q2\bin\Debug\net8.0\NuGet.ProjectModel.dll
+E:\Q2\bin\Debug\net8.0\NuGet.Protocol.dll
+E:\Q2\bin\Debug\net8.0\NuGet.Versioning.dll
+E:\Q2\bin\Debug\net8.0\System.CodeDom.dll
+E:\Q2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Q2\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Q2\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Q2\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Q2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Q2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Q2\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Q2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Q2\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Q2\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+E:\Q2\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Q2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Q2\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Q2\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Q2\bin\Debug\net8.0\af\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\ar\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\az\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\bg\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\cs\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\da\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\de\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\el\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\es\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\fa\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\fr\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\he\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\hr\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\hu\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\hy\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\id\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\is\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\it\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\ja\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\ku\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\lv\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\mt\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\nb\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\nl\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\pl\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\pt\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\ro\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\ru\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\sk\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\sl\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\sr\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\sv\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\tr\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\uk\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\vi\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+E:\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+E:\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+E:\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Q2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+E:\Q2\obj\Debug\net8.0\Q2.csproj.AssemblyReference.cache
+E:\Q2\obj\Debug\net8.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Q2\obj\Debug\net8.0\Q2.AssemblyInfoInputs.cache
+E:\Q2\obj\Debug\net8.0\Q2.AssemblyInfo.cs
+E:\Q2\obj\Debug\net8.0\Q2.csproj.CoreCompileInputs.cache
+E:\Q2\obj\Debug\net8.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+E:\Q2\obj\Debug\net8.0\Q2.RazorAssemblyInfo.cache
+E:\Q2\obj\Debug\net8.0\Q2.RazorAssemblyInfo.cs
+E:\Q2\obj\Debug\net8.0\staticwebassets.build.json
+E:\Q2\obj\Debug\net8.0\staticwebassets.development.json
+E:\Q2\obj\Debug\net8.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Q2\obj\Debug\net8.0\staticwebassets\msbuild.build.Q2.props
+E:\Q2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+E:\Q2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Q2.props
+E:\Q2\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Q2\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Q2\obj\Debug\net8.0\scopedcss\bundle\Q2.styles.css
+E:\Q2\obj\Debug\net8.0\scopedcss\projectbundle\Q2.bundle.scp.css
+E:\Q2\obj\Debug\net8.0\Q2.csproj.Up2Date
+E:\Q2\obj\Debug\net8.0\Q2.dll
+E:\Q2\obj\Debug\net8.0\refint\Q2.dll
+E:\Q2\obj\Debug\net8.0\Q2.pdb
+E:\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
+E:\Q2\obj\Debug\net8.0\ref\Q2.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\refint\Q2.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.pdb
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\appsettings.json
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Q2.staticwebassets.runtime.json
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Q2.exe
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Q2.deps.json
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Q2.runtimeconfig.json
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Q2.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Q2.pdb
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Humanizer.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.csproj.AssemblyReference.cache
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.AssemblyInfoInputs.cache
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.AssemblyInfo.cs
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.csproj.CoreCompileInputs.cache
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.RazorAssemblyInfo.cache
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.RazorAssemblyInfo.cs
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\staticwebassets\msbuild.Q2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\staticwebassets\msbuild.build.Q2.props
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Q2.props
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Q2.props
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\scopedcss\bundle\Q2.styles.css
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\scopedcss\projectbundle\Q2.bundle.scp.css
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.csproj.Up2Date
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\Q2.genruntimeconfig.cache
+C:\Users\PO-IT-WEERABAHU\Desktop\Q2\obj\Debug\net8.0\ref\Q2.dll
